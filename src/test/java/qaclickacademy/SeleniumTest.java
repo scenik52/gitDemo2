@@ -22,5 +22,11 @@ public class SeleniumTest {
 		System.out.println("elementsUiq");
 		System.out.println("BrowserAUtomation");
 	}
+	
+	@Test
+	public void elementsUiq1() {
+		System.out.println("elementsUiq");
+		System.out.println("BrowserAUtomation");
+	}
 
 }
